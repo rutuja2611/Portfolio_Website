@@ -23,6 +23,10 @@
   #about{
     top: -45px;
   }
+
+  .details-container {
+    margin-right: 20px;
+}
   }
   
   @media screen and (max-width: 1200px) {
@@ -66,9 +70,7 @@
       display: none;
     }
 
-    /* #about{
-      top: -195px;
-    } */
+   
 
     
   }
